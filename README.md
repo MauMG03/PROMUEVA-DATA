@@ -41,4 +41,4 @@ Users of the datasets should consider these limitations when processing, sharing
 
 -----------------
 
-If you need more details about the datasets or the PROMUEVA project, please contact the PROMUEVA Team at: promueva@googlegroups.com
+If you need more details about the datasets or the PROMUEVA project, please contact the PROMUEVA Team at: mauricio.munoz-gutierrez@lix.polytechnique.fr
